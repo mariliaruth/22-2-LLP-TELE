@@ -1,0 +1,3 @@
+/Users/mariliaruth/CLionProjects/AVALIACAO06/cmake-build-debug/CMakeFiles/AVALIACAO06.dir
+/Users/mariliaruth/CLionProjects/AVALIACAO06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariliaruth/CLionProjects/AVALIACAO06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
